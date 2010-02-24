@@ -8,7 +8,4 @@
 ## X-Email: tekkub-wow@googlegroups.com
 ## X-Category: Misc
  
-## LoadManagers: AddonLoader
-## X-LoadOn-Group: true
- 
 tekKrush.lua
